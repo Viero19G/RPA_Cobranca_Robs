@@ -1,0 +1,6 @@
+Erro {'': (555, b'5.5.2 Syntax error, cannot decode response. For more information, go to\n5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.2 specifications. d2e1a72fcca58-7347a6abaf5sm2428774b3a.21 - gsmtp')} ao tentar realizar envio de e-mail.
+Para o destino background-position:
+Erro {'center': (553, b'5.1.3 The recipient address <center> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. 98e67ed59e1d1-2fe6dec47a3sm953338a91.2 - gsmtp')} ao tentar realizar envio de e-mail.
+Para o destino center
+Erro {'center': (553, b'5.1.3 The recipient address <center> is not a valid RFC 5321 address. For\n5.1.3 more information, go to\n5.1.3  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.1.3 specifications. d9443c01a7336-2230a0b0e9bsm22758565ad.232 - gsmtp')} ao tentar realizar envio de e-mail.
+Para o destino center

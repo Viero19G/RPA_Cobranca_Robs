@@ -1,0 +1,8 @@
+Erro Connection unexpectedly closed ao tentar realizar envio de e-mail.
+Para o destino financeiroehinst@gmail.com
+Erro Connection unexpectedly closed ao tentar realizar envio de e-mail.
+Para o destino compras.lojasns@gmail.com
+Erro (421, b'4.4.5 Server busy, try again later.') ao tentar realizar envio de e-mail.
+Para o destino averolandia2019@gmail.com
+Erro (421, b'4.4.5 Server busy, try again later.') ao tentar realizar envio de e-mail.
+Para o destino casafortecfs@hotmail.com

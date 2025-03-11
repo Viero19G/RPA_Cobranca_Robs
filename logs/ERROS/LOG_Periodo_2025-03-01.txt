@@ -1,0 +1,2 @@
+Erro {'': (555, b'5.5.2 Syntax error, cannot decode response. For more information, go to\n5.5.2  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.2 specifications. 98e67ed59e1d1-2fe82840e02sm7432489a91.39 - gsmtp')} ao tentar realizar envio de e-mail.
+Para o destino (skype)
